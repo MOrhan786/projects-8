@@ -1,0 +1,59 @@
+{
+  "satellite": "ISS",
+  "sources": [
+    "https://api.wheretheiss.at/v1/satellites/25544"
+  ],
+  "created_locally": "2026-08-20T18:50:00-07:00",
+  "reads": [
+    {
+      "timestamp_unix": 1787233547,
+      "time_local": "2026-08-20 18:45:47 PST",
+      "latitude": 32.490315339672,
+      "longitude": -163.84612578448,
+      "altitude_km": 415.27013289942,
+      "velocity_kmh": 27608.288402017,
+      "visibility": "eclipse",
+      "footprint_km": 4483.32
+    },
+    {
+      "timestamp_unix": 1787233713,
+      "time_local": "2026-08-20 18:48:33 PST",
+      "latitude": 39.396528274119,
+      "longitude": -154.35471356618,
+      "altitude_km": 416.30766127041,
+      "velocity_kmh": 27609.481393934,
+      "visibility": "daylight",
+      "footprint_km": 4488.6305914394
+    },
+    {
+      "timestamp_unix": 1787233755,
+      "time_local": "2026-08-20 18:49:15 PST",
+      "latitude": 40.99034257696,
+      "longitude": -151.65061065525,
+      "altitude_km": 416.596876715,
+      "velocity_kmh": 27609.604693791,
+      "visibility": "daylight",
+      "footprint_km": 4490.1092145048
+    },
+    {
+      "timestamp_unix": 1787234280,
+      "time_local": "2026-08-20 18:58:00 PST",
+      "latitude": 51.785883800986,
+      "longitude": -106.21257606845,
+      "altitude_km": 419.38464135723,
+      "velocity_kmh": 27607.142739422,
+      "visibility": "daylight",
+      "footprint_km": 4504.3314661365
+    },
+    {
+      "timestamp_unix": 1787234357,
+      "time_local": "2026-08-20 18:59:17 PST",
+      "latitude": 51.457168545961,
+      "longitude": -98.546745603367,
+      "altitude_km": 419.5104304963,
+      "velocity_kmh": 27606.367262052,
+      "visibility": "daylight",
+      "footprint_km": 4504.9719115916
+    }
+  ]
+}
